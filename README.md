@@ -2,6 +2,12 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9C4FCF&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;React+Native+Developer;Flutter+Developer;Cross-Platform+Developer" alt="Typing SVG" />
+  
+  <br/><br/>
+  
+  <a href="https://emadeddintabbaa.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐-View%20Live%20Portfolio-purple?style=for-the-badge&logo=github" alt="Live Portfolio" />
+  </a>
 </div>
 
 ## 👨‍💻 About Me
@@ -45,15 +51,6 @@ I'm a passionate **Mobile Application Developer** with expertise in building cro
 ## 🎯 What I Do
 
 I focus on creating mobile applications that make a difference in people's lives. From utility apps to entertainment platforms, I strive to build products that are not only functional but also provide an excellent user experience.
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emadeddintabbaa&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emadeddintabbaa&theme=radical" alt="GitHub Streak" />
-</div>
-
----
 
 <div align="center">
   <h3>🚀 Ready to build amazing mobile apps together!</h3>
