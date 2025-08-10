@@ -5,9 +5,18 @@
   
   <br/><br/>
   
+  <h2>🎯 <a href="https://emadeddintabbaa.github.io/portfolio/" target="_blank">👉 CLICK HERE TO VIEW MY LIVE PORTFOLIO 👈</a></h2>
+  
+  <br/>
+  
   <a href="https://emadeddintabbaa.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌐-View%20Live%20Portfolio-purple?style=for-the-badge&logo=github" alt="Live Portfolio" />
   </a>
+  
+  <br/><br/>
+  
+  <p><strong>This repository contains the source code for my portfolio website.</strong></p>
+  <p><strong>To see the actual portfolio with all my projects, please click the link above! 🚀</strong></p>
 </div>
 
 ## 👨‍💻 About Me
