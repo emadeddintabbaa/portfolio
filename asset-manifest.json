@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.c085b3b4.css",
-    "main.js": "/portfolio/static/js/main.867572a1.js",
+    "main.js": "/portfolio/static/js/main.5e494d21.js",
     "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Emad_Eddin_Tabbaa_Resume.pdf": "/portfolio/static/media/Emad_Eddin_Tabbaa_Resume.a01729edd9623eab7129.pdf",
+    "static/media/Emad_Eddin_Tabbaa_Resume.pdf": "/portfolio/static/media/Emad_Eddin_Tabbaa_Resume.33ac49ee48e888562666.pdf",
     "static/media/100talks.png": "/portfolio/static/media/100talks.7206044e0b5cdad44726.png",
     "static/media/chatify.png": "/portfolio/static/media/chatify.7206044e0b5cdad44726.png",
     "static/media/checkapp.png": "/portfolio/static/media/checkapp.7206044e0b5cdad44726.png",
@@ -18,12 +18,12 @@
     "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/portfolio/index.html",
     "main.c085b3b4.css.map": "/portfolio/static/css/main.c085b3b4.css.map",
-    "main.867572a1.js.map": "/portfolio/static/js/main.867572a1.js.map",
+    "main.5e494d21.js.map": "/portfolio/static/js/main.5e494d21.js.map",
     "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c085b3b4.css",
-    "static/js/main.867572a1.js"
+    "static/js/main.5e494d21.js"
   ]
 }
